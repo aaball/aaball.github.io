@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adam Ball"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar."
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Waterloo, ON"
   employer         :
   inspirehep       : "https://inspirehep.net/authors/1846004?ui-citation-summary=true"
