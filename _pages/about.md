@@ -9,8 +9,3 @@ redirect_from:
 ---
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is
-
-# New section
-# ==========
-
-How?
