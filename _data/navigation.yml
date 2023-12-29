@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Notes"
+    url: //
         
   - title: "Blog"
     url: /year-archive/
