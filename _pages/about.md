@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist pursuing a theory of quantum gravity through celestial holography and certain toy models in gauge theory. 
+I am a theoretical physicist making progress on quantum gravity through celestial holography and certain toy models in gauge theory. 
