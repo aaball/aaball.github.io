@@ -117,6 +117,8 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% if author.inspirehep %}
+        <li><a href="{{ author.inspirehep }}"><i class="fas fa-fw fa-graduation-cap"></i> Inspirehep</a></li>
 {% endif %}
     </ul>
   </div>
