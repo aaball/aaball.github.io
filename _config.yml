@@ -174,12 +174,15 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# Collections (I added papers)
 collections:
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  papers:
     output: true
     permalink: /:collection/:path/
   portfolio:
