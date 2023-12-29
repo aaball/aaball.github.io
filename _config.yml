@@ -80,10 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adam Ball, PhD"
+  name             : "Dr. Adam Ball"
   avatar           : "profile.png"
   bio              : "Physicist at [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/people/adam-ball)"
   location         : "Waterloo, ON"
+  degree           : "PhD Harvard '22"
   employer         : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -91,7 +92,6 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   youtube          :
   inspirehep       : "https://inspirehep.net/authors/1846004?ui-citation-summary=true"
-  degree           : "PhD Harvard '22"
 
 # Reading Files
 include:
