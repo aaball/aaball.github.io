@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is
-
-A data-driven personal website
-========
-asdfadf
+I am a theoretical physicist pursuing a theory of quantum gravity through celestial holography and certain toy models in gauge theory. 
