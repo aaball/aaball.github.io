@@ -1,7 +1,7 @@
 ---
 title: 'Testwo'
 date: 2023-01-01
-permalink: /blog/tryagain.md
+permalink: /posts/tryagain.md
 tags:
   - cool posts
   - category1
