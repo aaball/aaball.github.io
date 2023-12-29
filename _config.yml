@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Adam Ball, PhD"
   avatar           : "profile.png"
-  bio              : "Physicist at Perimeter Institute for Theoretical Physics"
+  bio              : "Physicist at [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/people/adam-ball)"
   location         : "Waterloo, ON"
-  employer         : Perimeter
+  employer         : 
   inspirehep       : "https://inspirehep.net/authors/1846004?ui-citation-summary=true"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : fake@domain.ca
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
