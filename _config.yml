@@ -85,38 +85,13 @@ author:
   bio              : "Physicist at [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/people/adam-ball)"
   location         : "Waterloo, ON"
   employer         : 
-  inspirehep       : "https://inspirehep.net/authors/1846004?ui-citation-summary=true"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
-
+  inspirehep       : "https://inspirehep.net/authors/1846004?ui-citation-summary=true"
+  degree           : "PhD Harvard '22"
 
 # Reading Files
 include:
