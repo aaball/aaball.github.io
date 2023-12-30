@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Counterterms in Quantum Mechanics"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
