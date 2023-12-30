@@ -1,7 +1,5 @@
 ---
 title: "Regularization and Counterterms in Quantum Mechanics"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "The concepts of regularization and counterterms appear already in quantum mechanics, where they can be understood very explicitly. This pedagogical note goes through some detailed examples in quantum mechanics, in the process providing some insight into QFT."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
