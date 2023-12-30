@@ -24,7 +24,7 @@ Positions held
 
 Publications
 ======
-  <ol reversed>{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
