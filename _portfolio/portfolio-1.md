@@ -1,5 +1,6 @@
 ---
 title: "Regularization and Counterterms in Quantum Mechanics"
-excerpt: "The concepts of regularization and counterterms appear already in quantum mechanics, where they can be understood very explicitly. This pedagogical note goes through some detailed examples in quantum mechanics, in the process providing some insight into QFT."
+excerpt: "Regularization and counterterms are some of the most elusive aspects of QFT, but they already show up in the QM path integral and much can be gained from studying them there. In particular, one-dimensional (1D) QM can be viewed as 1D scalar QFT and so in that case the lessons carry over directly. In this note we compute the 1D QM partition function in several different ways, in the process gaining insight into regularization and counterterms."
 collection: portfolio
 ---
+Download here.
