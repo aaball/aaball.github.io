@@ -1,5 +1,5 @@
 ---
-title: "Global first laws of accelerating black holes"
+title: "Global First Laws of Accelerating Black Holes"
 date: 2021-03-12
 venue: Classical and Quantum Gravity
 ---
