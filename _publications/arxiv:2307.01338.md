@@ -1,5 +1,5 @@
 ---
-title: "Hidden symmetry in the double copy"
+title: "Hidden Symmetry in the Double Copy"
 date: 2023-07-03
 venue: Journal of High Energy Physics
 ---
