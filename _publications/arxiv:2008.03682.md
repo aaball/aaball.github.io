@@ -1,5 +1,5 @@
 ---
-title: "Accelerating black hole thermodynamics with boost time"
+title: "Accelerating Black Hole Thermodynamics with Boost Time"
 date: 2020-08-09
 venue: Classical and Quantum Gravity
 ---
