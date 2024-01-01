@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist making progress on quantum gravity through celestial holography and certain toy models in gauge theory. 
+My research aims to understand the physics at boundaries of various kinds. This includes the celestial hologram at the asymptotic boundary of flat space, the dynamics of edge modes in gauge theory and gravity, and the thermodynamics of horizons.
