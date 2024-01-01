@@ -1,5 +1,5 @@
 ---
-title: "Measuring color memory in a color glass condensate at electron–ion colliders"
+title: "Measuring Color Memory in a Color Glass Condensate at Electron–Ion Colliders"
 date: 2018-05-30
 venue: Annals of Physics
 ---
