@@ -2,5 +2,5 @@
 title: "Global First Laws of Accelerating Black Holes"
 date: 2021-03-12
 venue: Classical and Quantum Gravity
+paperurl: https://inspirehep.net/literature/1851665
 ---
-[Download here](https://inspirehep.net/literature/1851665)
